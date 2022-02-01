@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TO-DO-ENTİTY/1.0.0": {
+        "runtime": {
+          "TO-DO-ENTİTY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TO-DO-ENTİTY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
