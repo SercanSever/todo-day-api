@@ -50,7 +50,7 @@ ApiControllers tests..
 
 <b>Step - 1</b> You need to [Couchbase](https://hub.docker.com/_/couchbase?tab=description)
 
-<b>Step - 2</b> Login with Username = "admin" / Password = "secretpassword" to Couchbase Web Console.
+<b>Step - 2</b> Login with Username = "admin" / Password = "admin" to Couchbase Web Console.
 
 <b>Step - 3</b> Create two Bucket named "Users", "Todos" and ready to use.
 
